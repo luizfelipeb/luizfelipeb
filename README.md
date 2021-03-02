@@ -1,6 +1,4 @@
-# Luiz Felipe Da Silva Barros
-
-## Sobre
+# Olá, eu sou o Luiz! :D
 
 Atualmente focando no estudo de Stack com React, React Native e Node.js 🚀
 
