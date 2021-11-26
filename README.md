@@ -3,7 +3,7 @@
 
 Atualmente focando no estudo de Stack com React, React Native e Node.js 🚀
 
-<h3>Skills</h3>
+- Skills
 </br>✅ HTML5
 </br>✅ CSS3
 </br>✅ Javascript
