@@ -4,9 +4,9 @@
 Atualmente focando no estudo de Stack com React, React Native e Node.js 🚀
 
 <h3>Skills</h3>
-<\br>✅ HTML5
-<\br>✅ CSS3
-<\br>✅ Javascript
+</br>✅ HTML5
+</br>✅ CSS3
+</br>✅ Javascript
 
 </br>💻 Trabalho atualmente como Suporte Técnico e por conta em Projetos Pessoais.
 </br>🚀 Buscando evoluir sempre com foco nas mais novas tecnologias e ferramentas. Sempre em busca de crescimento.
