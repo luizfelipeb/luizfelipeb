@@ -1,7 +1,7 @@
 # Olá, eu sou o Luiz! :D
 
-
-Atualmente focando no estudo de Stack com React, React Native e Node.js 🚀
+Projetos básicos de aprendizado! Não são os melhores, mas creio que a cada dia posso crescer!
+Meu maior objetivo é me tornar um Desenvolvedor Web FullStack em breve e estar em constante aprendizado. Busco entrar no mercado para aprendizado e vivência no desenvolvimento. Crescendo no Javascript para desenvolver em React, React Native e Node.js 🚀
 
 - Skills
 </br>✅ HTML5
