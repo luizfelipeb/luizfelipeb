@@ -3,6 +3,15 @@
 Projetos básicos de aprendizado! Não são os melhores, mas creio que a cada dia posso crescer!
 Meu maior objetivo é me tornar um Desenvolvedor Web FullStack em breve e estar em constante aprendizado. Busco entrar no mercado para aprendizado e vivência no desenvolvimento. Crescendo no Javascript para desenvolver em React, React Native e Node.js 🚀
 
+</br>
+<div>
+  <a href="https://github.com/tiagosantana88">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipeb&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"></a>
+  <a href="https://github.com/luizfelipeb">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipeb&amp;layout=compact&amp;langs_count=7&amp;theme=merko" style="max-width: 50%;"></a>
+</div>
+</br>
+
 - Skills
 </br>✅ HTML5
 </br>✅ CSS3
