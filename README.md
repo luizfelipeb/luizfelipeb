@@ -17,7 +17,7 @@ Meu maior objetivo é me tornar um Desenvolvedor Web FullStack em breve e estar 
 </br>✅ CSS3
 </br>✅ Javascript
 
-</br>💻 Trabalho atualmente como Suporte Técnico e por conta em Projetos Pessoais.
+</br>💻 Trabalho atualmente como Suporte Técnico. Em busca de mudança de cargo.
 </br>🚀 Buscando evoluir sempre com foco nas mais novas tecnologias e ferramentas. Sempre em busca de crescimento.
 </br>📚 Em busca de: Typescript, Node.js, React e React Native.
 </br>🗨 "Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar."
